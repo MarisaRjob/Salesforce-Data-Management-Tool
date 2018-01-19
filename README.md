@@ -2,6 +2,8 @@
 A Java tool to manage accounts and authorize permissions, import and export data from Salesforce system. 
 
 ## Login Page
+Administrators can login with their production salesforce account or their sandbox salesforce account. The login button will change color and content according to the content of the username to remind users if it is production account or sandbox account.
+The username and password will be stored in the java.util.prefs.Preferences if the "Save credential" is checked.
 ![login](https://user-images.githubusercontent.com/23087939/31187332-6fc076cc-a8e6-11e7-983e-e344c43d70d0.PNG)
 
 ## Main Page
