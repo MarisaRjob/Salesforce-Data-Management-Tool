@@ -1,0 +1,1 @@
+java -classpath "force-wsc-41.0.0-uber.jar" com.sforce.ws.tools.wsdlc enterprise.wsdl enterprise.jar

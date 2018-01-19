@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE preferences SYSTEM "http://java.sun.com/dtd/preferences.dtd">
+<preferences EXTERNAL_XML_VERSION="1.0">
+  <root type="system">
+    <map/>
+    <node name="oe.sfAdminTools.pref">
+      <map>
+        <entry key="sf.sandboxEndPoint" value="https://test.salesforce.com/services/Soap/c/40.0/0DF2900000000PB"/>
+        <entry key="sf.prodEndPoint" value="https://login.salesforce.com/services/Soap/c/40.0/0DF2900000000PB"/>
+        <entry key="WhoCanUseTool" value="rui.ma@openedgepay.com,charlton.zheng@openedgepay.com,thomas.garcia@openedgepay.com"/>
+      </map>
+    </node>
+  </root>
+</preferences>

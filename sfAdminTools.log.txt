@@ -1,0 +1,649 @@
+2017-12-06 10:58:49.219 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-06 10:58:55.374 [JavaFX Application Thread] DEBUG oe.sf.Conn - Username: charlton.zheng@openedgepay.com.full
+2017-12-06 10:59:18.619 [JavaFX Application Thread] ERROR oe.sf.Conn - [MalformedQueryFault [ApiQueryFault [ApiFault  exceptionCode='MALFORMED_QUERY'
+ exceptionMessage='SOQL statements can not be longer than 20000 characters.'
+ extendedErrorDetails='{[0]}'
+]
+ row='-1'
+ column='-1'
+]
+]
+
+2017-12-07 10:51:58.797 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-07 10:52:10.603 [JavaFX Application Thread] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.adminrm
+2017-12-07 11:20:15.128 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-07 11:20:43.007 [JavaFX Application Thread] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.adminrm
+2017-12-07 14:18:53.222 [main] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.adminrm
+2017-12-07 14:18:53.233 [main] ERROR oe.ui.LoginController - java.security.InvalidKeyException: Invalid AES key length: 11 bytes
+2017-12-07 14:20:40.369 [main] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.adminrm
+2017-12-07 14:21:18.564 [main] ERROR oe.ui.LoginController - java.security.InvalidKeyException: Invalid AES key length: 11 bytes
+2017-12-07 14:26:01.730 [main] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.adminrm
+2017-12-07 14:26:01.741 [main] ERROR oe.ui.LoginController - java.security.InvalidKeyException: Invalid AES key length: 11 bytes
+2017-12-07 14:26:01.749 [main] ERROR oe.ui.LoginController - java.security.InvalidKeyException: Invalid AES key length: 11 bytes
+2017-12-07 14:27:37.907 [main] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.adminrm
+2017-12-07 14:27:37.917 [main] ERROR oe.ui.LoginController - java.security.InvalidKeyException: Invalid AES key length: 11 bytes
+2017-12-07 14:27:37.924 [main] ERROR oe.ui.LoginController - java.security.InvalidKeyException: Invalid AES key length: 11 bytes
+2017-12-07 14:28:05.533 [main] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.adminrm
+2017-12-07 14:38:07.385 [main] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.adminrm
+2017-12-07 14:45:58.690 [main] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.adminrm
+2017-12-07 14:46:23.291 [main] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.adminrm
+2017-12-07 14:47:28.110 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-07 14:47:35.013 [JavaFX Application Thread] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.adminrm
+2017-12-07 14:48:01.659 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-07 14:48:37.492 [JavaFX Application Thread] INFO  oe.sf.Conn - [LoginFault [ApiFault  exceptionCode='INVALID_LOGIN'
+ exceptionMessage='Invalid username, password, security token; or user locked out.'
+ extendedErrorDetails='{[0]}'
+]
+]
+
+2017-12-07 14:48:37.503 [JavaFX Application Thread] WARN  oe.ui.LoginController - Invalid username, password, security token; or user locked out.
+2017-12-07 14:48:47.519 [JavaFX Application Thread] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.adminrm
+2017-12-07 14:52:45.939 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-07 14:52:50.479 [JavaFX Application Thread] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.full
+2017-12-07 14:52:58.110 [JavaFX Application Thread] ERROR oe.sf.Conn - [MalformedQueryFault [ApiQueryFault [ApiFault  exceptionCode='MALFORMED_QUERY'
+ exceptionMessage='SOQL statements can not be longer than 20000 characters.'
+ extendedErrorDetails='{[0]}'
+]
+ row='-1'
+ column='-1'
+]
+]
+
+2017-12-07 14:52:58.120 [JavaFX Application Thread] ERROR oe.sf.Conn - [Ljava.lang.StackTraceElement;@4c0b71ab
+2017-12-07 14:53:34.548 [JavaFX Application Thread] ERROR oe.sf.Conn - [MalformedQueryFault [ApiQueryFault [ApiFault  exceptionCode='MALFORMED_QUERY'
+ exceptionMessage='SOQL statements can not be longer than 20000 characters.'
+ extendedErrorDetails='{[0]}'
+]
+ row='-1'
+ column='-1'
+]
+]
+
+2017-12-07 14:53:34.563 [JavaFX Application Thread] ERROR oe.sf.Conn - [Ljava.lang.StackTraceElement;@239e4c0d
+2017-12-07 14:57:10.009 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-07 15:16:04.749 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-07 15:16:08.176 [JavaFX Application Thread] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.full
+2017-12-07 15:16:13.223 [JavaFX Application Thread] ERROR oe.sf.Conn - [MalformedQueryFault [ApiQueryFault [ApiFault  exceptionCode='MALFORMED_QUERY'
+ exceptionMessage='SOQL statements can not be longer than 20000 characters.'
+ extendedErrorDetails='{[0]}'
+]
+ row='-1'
+ column='-1'
+]
+]
+
+2017-12-07 15:16:13.236 [JavaFX Application Thread] ERROR oe.sf.Conn - [Ljava.lang.StackTraceElement;@773ed224
+2017-12-07 15:16:37.135 [JavaFX Application Thread] ERROR oe.sf.Conn - [MalformedQueryFault [ApiQueryFault [ApiFault  exceptionCode='MALFORMED_QUERY'
+ exceptionMessage='SOQL statements can not be longer than 20000 characters.'
+ extendedErrorDetails='{[0]}'
+]
+ row='-1'
+ column='-1'
+]
+]
+
+2017-12-07 15:16:37.149 [JavaFX Application Thread] ERROR oe.sf.Conn - [Ljava.lang.StackTraceElement;@5f8cebfe
+2017-12-07 15:16:45.263 [JavaFX Application Thread] ERROR oe.sf.Conn - [MalformedQueryFault [ApiQueryFault [ApiFault  exceptionCode='MALFORMED_QUERY'
+ exceptionMessage='SOQL statements can not be longer than 20000 characters.'
+ extendedErrorDetails='{[0]}'
+]
+ row='-1'
+ column='-1'
+]
+]
+
+2017-12-07 15:16:45.278 [JavaFX Application Thread] ERROR oe.sf.Conn - [Ljava.lang.StackTraceElement;@1a6e231b
+2017-12-07 15:16:52.869 [JavaFX Application Thread] ERROR oe.sf.Conn - [MalformedQueryFault [ApiQueryFault [ApiFault  exceptionCode='MALFORMED_QUERY'
+ exceptionMessage='SOQL statements can not be longer than 20000 characters.'
+ extendedErrorDetails='{[0]}'
+]
+ row='-1'
+ column='-1'
+]
+]
+
+2017-12-07 15:16:52.883 [JavaFX Application Thread] ERROR oe.sf.Conn - [Ljava.lang.StackTraceElement;@5f6be227
+2017-12-07 15:17:03.777 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-07 15:17:06.284 [JavaFX Application Thread] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.full
+2017-12-07 15:17:10.670 [JavaFX Application Thread] ERROR oe.sf.Conn - [MalformedQueryFault [ApiQueryFault [ApiFault  exceptionCode='MALFORMED_QUERY'
+ exceptionMessage='SOQL statements can not be longer than 20000 characters.'
+ extendedErrorDetails='{[0]}'
+]
+ row='-1'
+ column='-1'
+]
+]
+
+2017-12-07 15:17:10.683 [JavaFX Application Thread] ERROR oe.sf.Conn - [Ljava.lang.StackTraceElement;@6b4004c8
+2017-12-07 15:17:53.920 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-07 15:17:59.542 [JavaFX Application Thread] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.full
+2017-12-07 15:18:08.582 [JavaFX Application Thread] ERROR oe.sf.Conn - [MalformedQueryFault [ApiQueryFault [ApiFault  exceptionCode='MALFORMED_QUERY'
+ exceptionMessage='SOQL statements can not be longer than 20000 characters.'
+ extendedErrorDetails='{[0]}'
+]
+ row='-1'
+ column='-1'
+]
+]
+
+2017-12-07 15:18:08.596 [JavaFX Application Thread] ERROR oe.sf.Conn - [Ljava.lang.StackTraceElement;@1cdec5e7
+2017-12-07 15:19:01.689 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-07 15:19:04.069 [JavaFX Application Thread] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.full
+2017-12-07 15:19:07.594 [JavaFX Application Thread] ERROR oe.sf.Conn - [MalformedQueryFault [ApiQueryFault [ApiFault  exceptionCode='MALFORMED_QUERY'
+ exceptionMessage='SOQL statements can not be longer than 20000 characters.'
+ extendedErrorDetails='{[0]}'
+]
+ row='-1'
+ column='-1'
+]
+]
+
+2017-12-07 15:19:07.603 [JavaFX Application Thread] ERROR oe.sf.Conn - [Ljava.lang.StackTraceElement;@33df53eb
+2017-12-07 15:19:45.070 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-07 15:19:47.580 [JavaFX Application Thread] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.full
+2017-12-07 15:19:51.379 [JavaFX Application Thread] ERROR oe.sf.Conn - [MalformedQueryFault [ApiQueryFault [ApiFault  exceptionCode='MALFORMED_QUERY'
+ exceptionMessage='SOQL statements can not be longer than 20000 characters.'
+ extendedErrorDetails='{[0]}'
+]
+ row='-1'
+ column='-1'
+]
+]
+
+2017-12-07 15:19:51.393 [JavaFX Application Thread] ERROR oe.sf.Conn - [Ljava.lang.StackTraceElement;@2b62660b
+2017-12-07 15:20:06.655 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-07 15:20:08.935 [JavaFX Application Thread] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.full
+2017-12-07 15:20:12.882 [JavaFX Application Thread] ERROR oe.sf.Conn - [MalformedQueryFault [ApiQueryFault [ApiFault  exceptionCode='MALFORMED_QUERY'
+ exceptionMessage='SOQL statements can not be longer than 20000 characters.'
+ extendedErrorDetails='{[0]}'
+]
+ row='-1'
+ column='-1'
+]
+]
+
+2017-12-07 15:20:12.897 [JavaFX Application Thread] ERROR oe.sf.Conn - [Ljava.lang.StackTraceElement;@4e83d67a
+2017-12-07 15:20:54.389 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-07 15:20:57.061 [JavaFX Application Thread] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.full
+2017-12-07 15:21:01.600 [JavaFX Application Thread] ERROR oe.sf.Conn - [MalformedQueryFault [ApiQueryFault [ApiFault  exceptionCode='MALFORMED_QUERY'
+ exceptionMessage='SOQL statements can not be longer than 20000 characters.'
+ extendedErrorDetails='{[0]}'
+]
+ row='-1'
+ column='-1'
+]
+]
+
+2017-12-07 15:21:01.615 [JavaFX Application Thread] ERROR oe.sf.Conn - [Ljava.lang.StackTraceElement;@5ed23551
+2017-12-07 15:21:34.046 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-07 15:21:38.547 [JavaFX Application Thread] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.full
+2017-12-07 15:21:56.383 [JavaFX Application Thread] ERROR oe.sf.Conn - [MalformedQueryFault [ApiQueryFault [ApiFault  exceptionCode='MALFORMED_QUERY'
+ exceptionMessage='SOQL statements can not be longer than 20000 characters.'
+ extendedErrorDetails='{[0]}'
+]
+ row='-1'
+ column='-1'
+]
+]
+
+2017-12-07 15:21:56.397 [JavaFX Application Thread] ERROR oe.sf.Conn - [Ljava.lang.StackTraceElement;@76c79f3b
+2017-12-07 15:22:20.281 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-07 15:22:35.688 [JavaFX Application Thread] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.full
+2017-12-07 15:23:06.252 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-07 15:24:17.017 [JavaFX Application Thread] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.full
+2017-12-07 15:24:24.417 [JavaFX Application Thread] ERROR oe.sf.Conn - [MalformedQueryFault [ApiQueryFault [ApiFault  exceptionCode='MALFORMED_QUERY'
+ exceptionMessage='SOQL statements can not be longer than 20000 characters.'
+ extendedErrorDetails='{[0]}'
+]
+ row='-1'
+ column='-1'
+]
+]
+
+2017-12-07 15:24:24.426 [JavaFX Application Thread] ERROR oe.sf.Conn - [Ljava.lang.StackTraceElement;@4522157f
+2017-12-07 15:24:56.920 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-07 15:25:18.206 [JavaFX Application Thread] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.full
+2017-12-07 15:25:30.785 [JavaFX Application Thread] ERROR oe.sf.Conn - [MalformedQueryFault [ApiQueryFault [ApiFault  exceptionCode='MALFORMED_QUERY'
+ exceptionMessage='SOQL statements can not be longer than 20000 characters.'
+ extendedErrorDetails='{[0]}'
+]
+ row='-1'
+ column='-1'
+]
+]
+
+2017-12-07 15:25:30.797 [JavaFX Application Thread] ERROR oe.sf.Conn - [Ljava.lang.StackTraceElement;@6fd4605e
+2017-12-07 15:26:18.041 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-07 15:26:20.676 [JavaFX Application Thread] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.full
+2017-12-07 15:31:00.699 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-07 15:31:03.187 [JavaFX Application Thread] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.full
+2017-12-07 15:31:27.447 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-07 15:31:30.161 [JavaFX Application Thread] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.full
+2017-12-07 15:32:23.296 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-07 15:32:35.885 [JavaFX Application Thread] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.full
+2017-12-07 15:32:49.039 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-07 15:32:51.535 [JavaFX Application Thread] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.full
+2017-12-07 15:37:56.024 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-07 15:37:58.635 [JavaFX Application Thread] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.full
+2017-12-07 15:38:03.245 [JavaFX Application Thread] ERROR oe.sf.Conn - [MalformedQueryFault [ApiQueryFault [ApiFault  exceptionCode='MALFORMED_QUERY'
+ exceptionMessage='SOQL statements can not be longer than 20000 characters.'
+ extendedErrorDetails='{[0]}'
+]
+ row='-1'
+ column='-1'
+]
+]
+
+2017-12-07 15:38:03.260 [JavaFX Application Thread] ERROR oe.sf.Conn - [Ljava.lang.StackTraceElement;@9fc3af7
+2017-12-07 15:38:51.341 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-07 15:38:56.435 [JavaFX Application Thread] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.full
+2017-12-07 15:39:13.225 [JavaFX Application Thread] ERROR oe.sf.Conn - [MalformedQueryFault [ApiQueryFault [ApiFault  exceptionCode='MALFORMED_QUERY'
+ exceptionMessage='SOQL statements can not be longer than 20000 characters.'
+ extendedErrorDetails='{[0]}'
+]
+ row='-1'
+ column='-1'
+]
+]
+
+2017-12-07 15:39:13.239 [JavaFX Application Thread] ERROR oe.sf.Conn - [Ljava.lang.StackTraceElement;@486b145a
+2017-12-07 15:47:18.350 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-07 15:47:23.827 [JavaFX Application Thread] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.full
+2017-12-07 15:47:29.383 [JavaFX Application Thread] ERROR oe.sf.Conn - [MalformedQueryFault [ApiQueryFault [ApiFault  exceptionCode='MALFORMED_QUERY'
+ exceptionMessage='SOQL statements can not be longer than 20000 characters.'
+ extendedErrorDetails='{[0]}'
+]
+ row='-1'
+ column='-1'
+]
+]
+
+2017-12-07 15:47:29.398 [JavaFX Application Thread] ERROR oe.sf.Conn - [Ljava.lang.StackTraceElement;@35085ddf
+2017-12-07 15:48:16.249 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-07 15:48:19.072 [JavaFX Application Thread] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.full
+2017-12-07 15:54:34.745 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-07 15:54:37.290 [JavaFX Application Thread] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.full
+2017-12-07 15:54:52.935 [JavaFX Application Thread] ERROR oe.sf.Conn - [MalformedQueryFault [ApiQueryFault [ApiFault  exceptionCode='MALFORMED_QUERY'
+ exceptionMessage='SOQL statements can not be longer than 20000 characters.'
+ extendedErrorDetails='{[0]}'
+]
+ row='-1'
+ column='-1'
+]
+]
+
+2017-12-07 15:54:52.950 [JavaFX Application Thread] ERROR oe.sf.Conn - [Ljava.lang.StackTraceElement;@2ed932cc
+2017-12-07 15:55:21.437 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-07 15:55:23.912 [JavaFX Application Thread] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.full
+2017-12-07 15:55:28.250 [JavaFX Application Thread] ERROR oe.sf.Conn - [MalformedQueryFault [ApiQueryFault [ApiFault  exceptionCode='MALFORMED_QUERY'
+ exceptionMessage='SOQL statements can not be longer than 20000 characters.'
+ extendedErrorDetails='{[0]}'
+]
+ row='-1'
+ column='-1'
+]
+]
+
+2017-12-07 15:55:28.258 [JavaFX Application Thread] ERROR oe.sf.Conn - [Ljava.lang.StackTraceElement;@46e5f9f1
+2017-12-07 15:55:56.946 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-07 15:55:59.399 [JavaFX Application Thread] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.full
+2017-12-07 15:56:04.975 [JavaFX Application Thread] ERROR oe.sf.Conn - [MalformedQueryFault [ApiQueryFault [ApiFault  exceptionCode='MALFORMED_QUERY'
+ exceptionMessage='SOQL statements can not be longer than 20000 characters.'
+ extendedErrorDetails='{[0]}'
+]
+ row='-1'
+ column='-1'
+]
+]
+
+2017-12-07 15:56:04.986 [JavaFX Application Thread] ERROR oe.sf.Conn - [Ljava.lang.StackTraceElement;@51bf04a5
+2017-12-07 15:56:34.378 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-07 15:56:36.979 [JavaFX Application Thread] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.full
+2017-12-07 15:56:40.885 [JavaFX Application Thread] ERROR oe.sf.Conn - [MalformedQueryFault [ApiQueryFault [ApiFault  exceptionCode='MALFORMED_QUERY'
+ exceptionMessage='SOQL statements can not be longer than 20000 characters.'
+ extendedErrorDetails='{[0]}'
+]
+ row='-1'
+ column='-1'
+]
+]
+
+2017-12-07 15:56:40.900 [JavaFX Application Thread] ERROR oe.sf.Conn - [Ljava.lang.StackTraceElement;@16e0d813
+2017-12-08 11:39:12.261 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-08 11:39:15.586 [JavaFX Application Thread] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.full
+2017-12-08 14:43:17.105 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-08 14:43:25.916 [JavaFX Application Thread] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.full
+2017-12-08 14:43:33.939 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-11 14:59:13.919 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-11 15:06:00.333 [JavaFX Application Thread] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.full
+2017-12-11 15:06:54.966 [JavaFX Application Thread] ERROR oe.sf.Conn - [MalformedQueryFault [ApiQueryFault [ApiFault  exceptionCode='MALFORMED_QUERY'
+ exceptionMessage='SOQL statements can not be longer than 20000 characters.'
+ extendedErrorDetails='{[0]}'
+]
+ row='-1'
+ column='-1'
+]
+]
+
+2017-12-11 15:06:54.980 [JavaFX Application Thread] ERROR oe.sf.Conn - [Ljava.lang.StackTraceElement;@122aeb87
+2017-12-11 15:32:52.171 [JavaFX Application Thread] ERROR oe.sf.Conn - [MalformedQueryFault [ApiQueryFault [ApiFault  exceptionCode='MALFORMED_QUERY'
+ exceptionMessage='SOQL statements can not be longer than 20000 characters.'
+ extendedErrorDetails='{[0]}'
+]
+ row='-1'
+ column='-1'
+]
+]
+
+2017-12-11 15:32:52.186 [JavaFX Application Thread] ERROR oe.sf.Conn - [Ljava.lang.StackTraceElement;@406383c9
+2017-12-11 15:53:14.930 [main] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.adminrm
+2017-12-11 15:57:51.694 [main] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.adminrm
+2017-12-11 16:26:51.526 [main] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.adminrm
+2017-12-11 16:39:11.852 [main] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.adminrm
+2017-12-11 16:39:25.330 [main] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.adminrm
+2017-12-11 16:39:45.242 [main] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.adminrm
+2017-12-11 16:45:41.958 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-11 16:45:56.450 [JavaFX Application Thread] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.full
+2017-12-11 16:46:03.273 [JavaFX Application Thread] ERROR oe.sf.Conn - [MalformedQueryFault [ApiQueryFault [ApiFault  exceptionCode='MALFORMED_QUERY'
+ exceptionMessage='SOQL statements can not be longer than 20000 characters.'
+ extendedErrorDetails='{[0]}'
+]
+ row='-1'
+ column='-1'
+]
+]
+
+2017-12-11 16:46:03.288 [JavaFX Application Thread] ERROR oe.sf.Conn - [Ljava.lang.StackTraceElement;@1ff820d7
+2017-12-11 16:53:56.709 [main] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.adminrm
+2017-12-11 16:54:48.218 [main] ERROR oe.ui.LoginController - Sys preferences missing setting: sf.sandboxEndPoint
+2017-12-11 16:55:15.809 [main] ERROR oe.ui.LoginController - Sys preferences missing setting: sf.sandboxEndPoint
+2017-12-11 16:55:49.433 [main] ERROR oe.ui.LoginController - Sys preferences missing setting: sf.sandboxEndPoint
+2017-12-11 16:56:02.866 [main] ERROR oe.ui.LoginController - Sys preferences missing setting: sf.sandboxEndPoint
+2017-12-11 16:56:13.678 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-11 16:56:15.580 [JavaFX Application Thread] ERROR oe.ui.LoginController - Sys preferences missing setting: sf.sandboxEndPoint
+2017-12-11 16:56:20.156 [JavaFX Application Thread] ERROR oe.ui.LoginController - Sys preferences missing setting: sf.sandboxEndPoint
+2017-12-11 16:56:36.907 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-11 16:56:39.662 [JavaFX Application Thread] ERROR oe.ui.LoginController - Sys preferences missing setting: sf.sandboxEndPoint
+2017-12-11 16:57:23.410 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-11 16:57:47.627 [JavaFX Application Thread] ERROR oe.ui.LoginController - Sys preferences missing setting: sf.sandboxEndPoint
+2017-12-11 17:01:35.114 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-11 17:02:42.926 [JavaFX Application Thread] ERROR oe.ui.LoginController - Sys preferences missing setting: sf.sandboxEndPoint
+2017-12-11 17:07:53.286 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-11 17:07:55.446 [JavaFX Application Thread] ERROR oe.ui.LoginController - Sys preferences missing setting: sf.sandboxEndPoint
+2017-12-11 17:08:56.805 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-11 17:11:00.662 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-11 17:11:02.585 [JavaFX Application Thread] ERROR oe.ui.LoginController - Sys preferences missing setting: sf.sandboxEndPoint
+2017-12-11 17:13:30.202 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-11 17:16:39.233 [JavaFX Application Thread] ERROR oe.ui.LoginController - Sys preferences missing setting: sf.sandboxEndPoint
+2017-12-11 17:16:43.354 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-11 17:16:46.748 [JavaFX Application Thread] ERROR oe.ui.LoginController - Sys preferences missing setting: sf.sandboxEndPoint
+2017-12-11 17:25:10.706 [main] ERROR oe.ui.LoginController - Sys preferences missing setting: sf.sandboxEndPoint
+2017-12-11 17:26:00.869 [main] ERROR oe.ui.LoginController - Sys preferences missing setting: sf.sandboxEndPoint
+2017-12-11 17:29:03.510 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-11 17:29:05.242 [JavaFX Application Thread] ERROR oe.ui.LoginController - Sys preferences missing setting: sf.sandboxEndPoint
+2017-12-11 17:29:07.278 [JavaFX Application Thread] ERROR oe.ui.LoginController - Sys preferences missing setting: sf.sandboxEndPoint
+2017-12-11 17:29:17.359 [JavaFX Application Thread] ERROR oe.ui.LoginController - Sys preferences missing setting: sf.sandboxEndPoint
+2017-12-11 17:33:35.678 [main] ERROR oe.ui.LoginController - Sys preferences missing setting: sf.sandboxEndPoint
+2017-12-13 09:00:31.086 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-13 09:00:39.488 [JavaFX Application Thread] ERROR oe.ui.LoginController - Sys preferences missing setting: sf.sandboxEndPoint
+2017-12-13 09:01:21.030 [JavaFX Application Thread] ERROR oe.ui.LoginController - Sys preferences missing setting: sf.sandboxEndPoint
+2017-12-13 09:02:16.708 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-13 09:37:48.640 [JavaFX Application Thread] ERROR oe.ui.LoginController - Sys preferences missing setting: sf.sandboxEndPoint
+2017-12-13 09:37:55.652 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-13 09:42:09.131 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-13 09:42:11.629 [JavaFX Application Thread] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.full
+2017-12-13 09:42:16.619 [JavaFX Application Thread] ERROR oe.sf.Conn - [MalformedQueryFault [ApiQueryFault [ApiFault  exceptionCode='MALFORMED_QUERY'
+ exceptionMessage='SOQL statements can not be longer than 20000 characters.'
+ extendedErrorDetails='{[0]}'
+]
+ row='-1'
+ column='-1'
+]
+]
+
+2017-12-13 09:42:16.634 [JavaFX Application Thread] ERROR oe.sf.Conn - [Ljava.lang.StackTraceElement;@3366bc2
+2017-12-13 11:27:52.421 [main] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.adminrm
+2017-12-13 11:28:19.921 [main] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.adminrm
+2017-12-14 11:13:36.540 [main] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.adminrm
+2017-12-14 11:13:50.952 [main] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.adminrm
+2017-12-14 11:14:37.466 [main] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.adminrm
+2017-12-14 11:15:41.043 [main] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.adminrm
+2017-12-14 11:17:41.825 [main] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.adminrm
+2017-12-14 11:18:10.685 [main] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.adminrm
+2017-12-14 11:19:27.686 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-14 11:19:30.404 [JavaFX Application Thread] WARN  oe.ui.LoginController - rui.ma@openedgepay.com is not allowed to user tool.
+2017-12-14 11:19:41.244 [JavaFX Application Thread] WARN  oe.ui.LoginController - rui.ma@openedgepay.com is not allowed to user tool.
+2017-12-14 11:19:41.851 [JavaFX Application Thread] WARN  oe.ui.LoginController - rui.ma@openedgepay.com is not allowed to user tool.
+2017-12-14 11:19:42.756 [JavaFX Application Thread] WARN  oe.ui.LoginController - rui.ma@openedgepay.com is not allowed to user tool.
+2017-12-14 11:19:48.467 [JavaFX Application Thread] WARN  oe.ui.LoginController - rui.ma@openedgepay.com is not allowed to user tool.
+2017-12-14 11:19:49.179 [JavaFX Application Thread] WARN  oe.ui.LoginController - rui.ma@openedgepay.com is not allowed to user tool.
+2017-12-14 11:19:49.451 [JavaFX Application Thread] WARN  oe.ui.LoginController - rui.ma@openedgepay.com is not allowed to user tool.
+2017-12-14 11:19:56.407 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-14 11:20:57.105 [JavaFX Application Thread] WARN  oe.ui.LoginController - rui.ma@openedgepay.com is not allowed to user tool.
+2017-12-14 11:21:04.250 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-14 11:21:18.187 [JavaFX Application Thread] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.full
+2017-12-14 11:21:31.157 [JavaFX Application Thread] ERROR oe.sf.Conn - [MalformedQueryFault [ApiQueryFault [ApiFault  exceptionCode='MALFORMED_QUERY'
+ exceptionMessage='SOQL statements can not be longer than 20000 characters.'
+ extendedErrorDetails='{[0]}'
+]
+ row='-1'
+ column='-1'
+]
+]
+
+2017-12-14 11:21:31.171 [JavaFX Application Thread] ERROR oe.sf.Conn - [Ljava.lang.StackTraceElement;@35cd6c26
+2017-12-14 13:18:37.774 [main] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.adminrm
+2017-12-14 13:40:17.661 [main] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.adminrm
+2017-12-14 13:40:26.041 [main] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.adminrm
+2017-12-14 13:40:33.324 [main] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.adminrm
+2017-12-14 13:41:17.403 [main] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.adminrm
+2017-12-15 10:29:22.171 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-15 10:29:29.281 [JavaFX Application Thread] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.adminrm
+2017-12-15 10:45:52.881 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-15 10:46:49.524 [JavaFX Application Thread] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.adminrm
+2017-12-15 10:48:57.167 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-15 10:49:01.519 [JavaFX Application Thread] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.adminrm
+2017-12-15 10:50:42.704 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-15 10:50:58.911 [JavaFX Application Thread] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.adminrm
+2017-12-15 10:50:59.342 [JavaFX Application Thread] ERROR oe.sf.Conn - [UnexpectedErrorFault [ApiFault  exceptionCode='INVALID_OPERATION_WITH_EXPIRED_PASSWORD'
+ exceptionMessage='The users password has expired, you must call SetPassword before attempting any other API operations'
+ extendedErrorDetails='{[0]}'
+]
+]
+
+2017-12-15 10:50:59.355 [JavaFX Application Thread] ERROR oe.sf.Conn - [Ljava.lang.StackTraceElement;@2150b597
+2017-12-15 10:51:02.906 [JavaFX Application Thread] ERROR oe.sf.Conn - [UnexpectedErrorFault [ApiFault  exceptionCode='INVALID_OPERATION_WITH_EXPIRED_PASSWORD'
+ exceptionMessage='The users password has expired, you must call SetPassword before attempting any other API operations'
+ extendedErrorDetails='{[0]}'
+]
+]
+
+2017-12-15 10:51:02.921 [JavaFX Application Thread] ERROR oe.sf.Conn - [Ljava.lang.StackTraceElement;@617868f4
+2017-12-15 10:51:36.710 [JavaFX Application Thread] ERROR oe.sf.Conn - [UnexpectedErrorFault [ApiFault  exceptionCode='INVALID_OPERATION_WITH_EXPIRED_PASSWORD'
+ exceptionMessage='The users password has expired, you must call SetPassword before attempting any other API operations'
+ extendedErrorDetails='{[0]}'
+]
+]
+
+2017-12-15 10:51:36.725 [JavaFX Application Thread] ERROR oe.sf.Conn - [Ljava.lang.StackTraceElement;@117b952e
+2017-12-15 10:51:58.551 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-15 10:52:38.863 [JavaFX Application Thread] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.full
+2017-12-15 10:52:52.501 [JavaFX Application Thread] ERROR oe.sf.Conn - [MalformedQueryFault [ApiQueryFault [ApiFault  exceptionCode='MALFORMED_QUERY'
+ exceptionMessage='SOQL statements can not be longer than 20000 characters.'
+ extendedErrorDetails='{[0]}'
+]
+ row='-1'
+ column='-1'
+]
+]
+
+2017-12-15 10:52:52.516 [JavaFX Application Thread] ERROR oe.sf.Conn - [Ljava.lang.StackTraceElement;@6179d984
+2017-12-15 11:02:27.746 [main] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.adminrm
+2017-12-15 11:02:37.289 [main] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.adminrm
+2017-12-15 11:13:36.016 [main] INFO  oe.sf.Conn - [LoginFault [ApiFault  exceptionCode='INVALID_LOGIN'
+ exceptionMessage='Invalid username, password, security token; or user locked out.'
+ extendedErrorDetails='{[0]}'
+]
+]
+
+2017-12-15 11:14:09.360 [main] INFO  oe.sf.Conn - [LoginFault [ApiFault  exceptionCode='INVALID_LOGIN'
+ exceptionMessage='Invalid username, password, security token; or user locked out.'
+ extendedErrorDetails='{[0]}'
+]
+]
+
+2017-12-15 11:16:31.004 [main] INFO  oe.sf.Conn - [LoginFault [ApiFault  exceptionCode='INVALID_LOGIN'
+ exceptionMessage='Invalid username, password, security token; or user locked out.'
+ extendedErrorDetails='{[0]}'
+]
+]
+
+2017-12-15 11:16:42.344 [main] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.adminrm
+2017-12-15 16:08:01.894 [main] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.adminrm
+2017-12-15 16:08:02.244 [main] ERROR oe.sf.Conn - [UnexpectedErrorFault [ApiFault  exceptionCode='INVALID_OPERATION_WITH_EXPIRED_PASSWORD'
+ exceptionMessage='The users password has expired, you must call SetPassword before attempting any other API operations'
+ extendedErrorDetails='{[0]}'
+]
+]
+
+2017-12-15 16:08:55.792 [main] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.full
+2017-12-15 16:11:18.961 [main] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.full
+2017-12-15 16:12:01.089 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-15 16:12:13.614 [JavaFX Application Thread] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.full
+2017-12-15 16:16:29.947 [JavaFX Application Thread] ERROR oe.sf.Conn - [MalformedQueryFault [ApiQueryFault [ApiFault  exceptionCode='MALFORMED_QUERY'
+ exceptionMessage='SOQL statements can not be longer than 20000 characters.'
+ extendedErrorDetails='{[0]}'
+]
+ row='-1'
+ column='-1'
+]
+]
+
+2017-12-15 16:16:29.959 [JavaFX Application Thread] ERROR oe.sf.Conn - [Ljava.lang.StackTraceElement;@31b2ff7a
+2017-12-15 16:26:42.819 [main] INFO  oe.sf.Conn - [LoginFault [ApiFault  exceptionCode='INVALID_LOGIN'
+ exceptionMessage='Invalid username, password, security token; or user locked out.'
+ extendedErrorDetails='{[0]}'
+]
+]
+
+2017-12-15 16:26:57.119 [main] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.adminrm
+2017-12-15 16:39:45.763 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-15 16:39:48.946 [JavaFX Application Thread] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.full
+2017-12-15 16:39:56.702 [JavaFX Application Thread] ERROR oe.sf.Conn - [MalformedQueryFault [ApiQueryFault [ApiFault  exceptionCode='MALFORMED_QUERY'
+ exceptionMessage='SOQL statements can not be longer than 20000 characters.'
+ extendedErrorDetails='{[0]}'
+]
+ row='-1'
+ column='-1'
+]
+]
+
+2017-12-15 16:39:56.711 [JavaFX Application Thread] ERROR oe.sf.Conn - [Ljava.lang.StackTraceElement;@91feabc
+2017-12-15 16:41:01.072 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-15 16:41:04.180 [JavaFX Application Thread] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.full
+2017-12-15 16:41:41.739 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-15 16:41:45.393 [JavaFX Application Thread] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.full
+2017-12-15 16:42:01.239 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-15 16:42:07.184 [JavaFX Application Thread] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.full
+2017-12-15 16:44:31.100 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-15 16:44:33.923 [JavaFX Application Thread] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.full
+2017-12-15 16:55:50.887 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-15 16:56:02.237 [JavaFX Application Thread] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.full
+2017-12-15 16:56:28.750 [JavaFX Application Thread] ERROR oe.sf.Conn - [MalformedQueryFault [ApiQueryFault [ApiFault  exceptionCode='MALFORMED_QUERY'
+ exceptionMessage='SOQL statements can not be longer than 20000 characters.'
+ extendedErrorDetails='{[0]}'
+]
+ row='-1'
+ column='-1'
+]
+]
+
+2017-12-15 16:56:28.762 [JavaFX Application Thread] ERROR oe.sf.Conn - [Ljava.lang.StackTraceElement;@58547f09
+2017-12-15 17:01:57.263 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-15 17:01:59.949 [JavaFX Application Thread] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.full
+2017-12-15 17:02:09.303 [JavaFX Application Thread] ERROR oe.sf.Conn - [MalformedQueryFault [ApiQueryFault [ApiFault  exceptionCode='MALFORMED_QUERY'
+ exceptionMessage='SOQL statements can not be longer than 20000 characters.'
+ extendedErrorDetails='{[0]}'
+]
+ row='-1'
+ column='-1'
+]
+]
+
+2017-12-15 17:02:09.311 [JavaFX Application Thread] ERROR oe.sf.Conn - [Ljava.lang.StackTraceElement;@132bf7b8
+2017-12-15 17:06:07.991 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-15 17:06:10.478 [JavaFX Application Thread] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.full
+2017-12-15 17:06:16.184 [JavaFX Application Thread] ERROR oe.sf.Conn - [MalformedQueryFault [ApiQueryFault [ApiFault  exceptionCode='MALFORMED_QUERY'
+ exceptionMessage='SOQL statements can not be longer than 20000 characters.'
+ extendedErrorDetails='{[0]}'
+]
+ row='-1'
+ column='-1'
+]
+]
+
+2017-12-15 17:06:16.192 [JavaFX Application Thread] ERROR oe.sf.Conn - [Ljava.lang.StackTraceElement;@51cace98
+2017-12-15 17:07:35.588 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-15 17:07:40.130 [JavaFX Application Thread] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.full
+2017-12-15 17:10:06.858 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-15 17:10:09.597 [JavaFX Application Thread] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.full
+2017-12-18 14:30:49.907 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-18 14:36:21.345 [JavaFX Application Thread] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.full
+2017-12-18 14:36:30.598 [JavaFX Application Thread] ERROR oe.sf.Conn - [MalformedQueryFault [ApiQueryFault [ApiFault  exceptionCode='MALFORMED_QUERY'
+ exceptionMessage='SOQL statements can not be longer than 20000 characters.'
+ extendedErrorDetails='{[0]}'
+]
+ row='-1'
+ column='-1'
+]
+]
+
+2017-12-18 14:36:30.610 [JavaFX Application Thread] ERROR oe.sf.Conn - [Ljava.lang.StackTraceElement;@1bd35c6e
+2017-12-18 14:41:24.386 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-18 14:41:27.261 [JavaFX Application Thread] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.full
+2017-12-18 14:41:33.586 [JavaFX Application Thread] ERROR oe.sf.Conn - [MalformedQueryFault [ApiQueryFault [ApiFault  exceptionCode='MALFORMED_QUERY'
+ exceptionMessage='SOQL statements can not be longer than 20000 characters.'
+ extendedErrorDetails='{[0]}'
+]
+ row='-1'
+ column='-1'
+]
+]
+
+2017-12-18 14:41:33.601 [JavaFX Application Thread] ERROR oe.sf.Conn - [Ljava.lang.StackTraceElement;@36281a3
+2017-12-18 14:43:30.708 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-18 14:43:33.298 [JavaFX Application Thread] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.full
+2017-12-18 14:43:39.096 [JavaFX Application Thread] ERROR oe.sf.Conn - [MalformedQueryFault [ApiQueryFault [ApiFault  exceptionCode='MALFORMED_QUERY'
+ exceptionMessage='SOQL statements can not be longer than 20000 characters.'
+ extendedErrorDetails='{[0]}'
+]
+ row='-1'
+ column='-1'
+]
+]
+
+2017-12-18 14:43:39.109 [JavaFX Application Thread] ERROR oe.sf.Conn - [Ljava.lang.StackTraceElement;@cc1848c
+2017-12-18 15:18:18.208 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2017-12-18 15:18:20.958 [JavaFX Application Thread] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.full
+2017-12-18 15:18:28.377 [JavaFX Application Thread] ERROR oe.sf.Conn - [MalformedQueryFault [ApiQueryFault [ApiFault  exceptionCode='MALFORMED_QUERY'
+ exceptionMessage='SOQL statements can not be longer than 20000 characters.'
+ extendedErrorDetails='{[0]}'
+]
+ row='-1'
+ column='-1'
+]
+]
+
+2017-12-18 15:18:28.392 [JavaFX Application Thread] ERROR oe.sf.Conn - [Ljava.lang.StackTraceElement;@1488cd74
+2018-01-18 21:01:28.950 [JavaFX Application Thread] INFO  oe.ui.App - info log
+2018-01-18 21:01:32.660 [JavaFX Application Thread] DEBUG oe.sf.Conn - Username: rui.ma@openedgepay.com.full
+2018-01-18 21:01:41.831 [JavaFX Application Thread] ERROR oe.sf.Conn - [MalformedQueryFault [ApiQueryFault [ApiFault  exceptionCode='MALFORMED_QUERY'
+ exceptionMessage='SOQL statements can not be longer than 20000 characters.'
+ extendedErrorDetails='{[0]}'
+]
+ row='-1'
+ column='-1'
+]
+]
+
+2018-01-18 21:01:41.832 [JavaFX Application Thread] ERROR oe.sf.Conn - [Ljava.lang.StackTraceElement;@291ad690
