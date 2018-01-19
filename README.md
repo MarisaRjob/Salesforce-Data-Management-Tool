@@ -19,6 +19,10 @@ Users can manage Salesforce Action items:
 
 ![salesforce tool](https://user-images.githubusercontent.com/23087939/35135625-4684039a-fc93-11e7-8a30-85b350903fd8.PNG)
 
+## View Link Page
+After click View button, it will open the link to the specific action item on Salesforce.
+![4](https://user-images.githubusercontent.com/23087939/35137742-bec49494-fc9f-11e7-8770-70be76a48a84.PNG)
+
 ## AssignTo Page
 Assign action items to specific administrator
 
