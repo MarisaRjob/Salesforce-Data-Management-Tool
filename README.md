@@ -28,6 +28,5 @@ Assign action items to specific administrator
 
 Change the status of action items.
 
-#### Status List: 
-New, Open/Review, In Process, Cancelled, Completed, Deferred, Duplicate, Awaiting Response, Sent to Development, Deployment Pending, Ready for User Sign-off, User Signed off.
+#### Status List: New, Open/Review, In Process, Cancelled, Completed, Deferred, Duplicate, Awaiting Response, Sent to Development, Deployment Pending, Ready for User Sign-off, User Signed off.
 ![3](https://user-images.githubusercontent.com/23087939/35137461-5bb643c6-fc9e-11e7-91da-5311ca9639f1.PNG)
