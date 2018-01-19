@@ -8,7 +8,7 @@ The login button will change color and content according to the content of the u
 
 The username and password will be stored in the java.util.prefs.Preferences if the "Save credential" is checked.
 
-![login](https://user-images.githubusercontent.com/23087939/31187332-6fc076cc-a8e6-11e7-983e-e344c43d70d0.PNG)
+![1](https://user-images.githubusercontent.com/23087939/35136937-76b667d0-fc9b-11e7-8e17-75cf3c1f243e.PNG)
 
 ## Main Page
 Users can manage action items:
