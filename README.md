@@ -20,12 +20,11 @@ Users can manage Salesforce Action items:
 ![salesforce tool](https://user-images.githubusercontent.com/23087939/35135625-4684039a-fc93-11e7-8a30-85b350903fd8.PNG)
 
 ## Assignto Page
-
 Assign action items to specific administrator
+
 ![assignto](https://user-images.githubusercontent.com/23087939/35137177-d84b23f4-fc9c-11e7-8743-3b0c18bc9653.PNG)
 
 ## Change Status Page
-
 Change the status of action items.
 
 #### Status List: New, Open/Review, In Process, Cancelled, Completed, Deferred, Duplicate, Awaiting Response, Sent to Development, Deployment Pending, Ready for User Sign-off, User Signed off.
