@@ -21,6 +21,7 @@ Users can manage Salesforce Action items:
 
 ## View Link Page
 After click View button, it will open the link to the specific action item on Salesforce.
+
 ![4](https://user-images.githubusercontent.com/23087939/35137742-bec49494-fc9f-11e7-8770-70be76a48a84.PNG)
 
 ## AssignTo Page
