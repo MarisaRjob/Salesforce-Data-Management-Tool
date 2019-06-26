@@ -1,10 +1,10 @@
 # Salesforce-Data-Management-Tool
 A Java tool to manage their production and sandbox accounts or specific permissions, import and export data from Salesforce system.
-### Development Language: Java
-### Development Tool: IntelliJ IDEA
-### Development Platform: JavaFX
-### Development DataBase: SOQL/HSQLDB
-### Test Framework: JUnit
+#### Development Language: Java
+#### Development Tool: IntelliJ IDEA
+#### Development Platform: JavaFX
+#### Development DataBase: SOQL/HSQLDB
+#### Development Test Framework: JUnit
 
 * Developed user interactive panels with *javafx*, and related back-end business control functionalities to exchange and manage data with HSQLDB. 
 * Wrote Junit test cases and logging exceptions. 
