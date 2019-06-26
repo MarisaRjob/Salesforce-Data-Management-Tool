@@ -1,17 +1,26 @@
 # Salesforce-Data-Management-Tool
-A Java tool to manage accounts and authorize permissions, import and export data from Salesforce system. 
+A Java tool to manage their production and sandbox accounts or specific permissions, import and export data from Salesforce system.
+### Development Language: Java
+### Development Tool: IntelliJ IDEA
+### Development Platform: JavaFX
+### Development DataBase: SOQL/HSQLDB
+### Test Framework: JUnit
+
+* Developed user interactive panels with *javafx*, and related back-end business control functionalities to exchange and manage data with HSQLDB. 
+* Wrote Junit test cases and logging exceptions. 
 
 ## Login Page
-Administrators can login with their production salesforce account or their sandbox salesforce account. 
+Administrators can login with their production salesforce account or sandbox salesforce account. 
 
-The login button will change color and content according to the content of the username to remind users if it is production account or sandbox account.
+The login button will change color depending on the username put in and that will remind users if it is production account or sandbox account on Salesforce.
 
 The username and password will be stored in the java.util.prefs.Preferences if the "Save credential" is checked.
+
 
 ![1](https://user-images.githubusercontent.com/23087939/35136937-76b667d0-fc9b-11e7-8e17-75cf3c1f243e.PNG)
 
 ## Main Page
-Users can manage Salesforce Action items:
+Users can manage Salesforce Action items in the main panel:
 * View action items and details
 * Assign action items to specific administrator
 * Change the status of action items
